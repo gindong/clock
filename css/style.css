@@ -1,3 +1,17 @@
 .hidden {
     display: none;
 }
+
+.del-btn {
+    margin-left:10px;
+    padding:0px 5px 0px 5px;
+    border:1px solid #333;
+    font-size:11px;
+    color:#fff;
+    background-color:#666;
+    border-radius:3px;
+}
+
+.todo-list ul li {
+    padding:10px;
+}
